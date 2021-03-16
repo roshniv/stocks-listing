@@ -1,0 +1,22 @@
+#app {
+    max-width: 850px;
+    margin: 0 auto;
+  }
+.logs-container {
+  max-height: 100vh;
+  height: 100vh;
+  border: 1px solid;
+  overflow: auto;
+}
+.summary-container {
+  border: 1px solid;
+  height: auto
+}
+.align-right {
+  position: absolute;
+  right: 5px;
+  top: 10px;
+}
+.text-bold {
+  font-weight: bold;
+}
